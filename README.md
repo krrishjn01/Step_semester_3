@@ -1,4 +1,19 @@
 # Step_semester_3
+## Date: 29-08-2026
+
+**Today's Work:**
+- Completed the Arrays class problems.
+- Completed the 5 class problems: Two Sum, Best Time to Buy and Sell Stock, Contains Duplicate, Merge Two Sorted Arrays, and Rotate Array.
+- Completed the 5 assignment problems: Product of Array Except Self, Maximum Subarray, 3Sum, Subarray Sum Equals K, and Find Minimum in Rotated Sorted Array.
+- Practiced array traversal, two-pointer techniques, prefix and suffix products, Kadane's algorithm, hash maps, and binary search.
+
+**Next Session Plan:**
+- Continue with the next session's problems and assignments.
+
+**Issues Faced:**
+- None
+
+---
 ## Date: 22-08-2026
 
 **Today's Work:**
