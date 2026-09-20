@@ -1,4 +1,20 @@
 # Step_semester_3
+## Date: 12-09-2026
+
+**Today's Work:**
+- Completed Week 6 Java Classes and Objects class problems.
+- Completed the 5 class problems: Student Placement Record Management, Hostel Mess Wallet Management, Course Credit Management, Library ID Card Management, and Student and College Information Management.
+- Completed the 5 assignment problems: Library Inventory Management, Payroll Salary Management, Employee Profile Creation, Exam Hall Ticket Reference Management, and Employee and Company Information Management.
+- Practiced classes and objects, constructors, encapsulation, constructor chaining using this(), object references, == comparison, static fields, static methods, and instance methods.
+- Tested the programs in IntelliJ.
+
+**Next Session Plan:**
+- Continue with the next session's class problems and assignments.
+
+**Issues Faced:**
+- None
+
+---
 ## Date: 05-09-2026
 
 **Today's Work:**
