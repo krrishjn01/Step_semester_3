@@ -1,4 +1,20 @@
 # Step_semester_3
+## Date: 05-09-2026
+
+**Today's Work:**
+- Completed Week 5 Java Arrays and Methods class problems.
+- Completed the 5 class problems: Hackathon Score Curve Booster, Duplicate Team Name Finder, Top-3 Podium Finder, Hackathon Seating Grid Optimizer, and Placement Drive Shortlisting & Ranking Engine.
+- Completed the 5 assignment problems: Fantasy Team Score Multiplier, Duplicate Player Pick Checker, Top Performer Tracker, Match Day Grid Analyzer, and Fantasy League Auto-Draft Ranking Engine.
+- Practiced array modification, nested loops, single-pass min/max tracking, 2D arrays, helper methods, method overloading, constructors, encapsulation, Comparable, and Arrays.sort().
+- Tested the programs in IntelliJ and fixed the source-folder configuration issue.
+
+**Next Session Plan:**
+- Continue with the next session's class problems and assignments.
+
+**Issues Faced:**
+- Encountered an IntelliJ source-folder configuration issue while running the Week 5 programs and resolved it by correcting the project structure and rebuilding the project.
+
+---
 ## Date: 29-08-2026
 
 **Today's Work:**
