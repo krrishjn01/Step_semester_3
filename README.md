@@ -1,4 +1,20 @@
 # Step_semester_3
+## Date: 19-09-2026
+
+**Today's Work:**
+- Completed Week 7 Java Encapsulation and Access Control class problems.
+- Completed the 5 class problems: Piggy Bank, Quiz Scorecard, Nickname Tag, Locker Code, and Attendance Sheet.
+- Completed the 5 assignment problems: The Health Bar, The Playlist, The Password Checker, The Traffic Light, and The Shopping Cart.
+- Practiced encapsulation, private fields, final fields, constructors, controlled access through methods, immutable objects, read-only methods, defensive copying, and validation of object state.
+- Tested the programs in IntelliJ.
+
+**Next Session Plan:**
+- Continue with the next session's class problems and assignments.
+
+**Issues Faced:**
+- None
+
+---
 ## Date: 12-09-2026
 
 **Today's Work:**
