@@ -1,4 +1,20 @@
 # Step_semester_3
+## Date: 03-10-2026
+
+**Today's Work:**
+- Completed Week 8 Java Inheritance and Polymorphism class problems.
+- Completed the 5 class problems: Payment System Fee Calculation, Library Item Due Date Calculator, Delivery Fee Calculator, Examination Question Grader, and Public Transport Fare Calculator.
+- Completed the 5 assignment problems: The Canteen Billing Counter, The Campus Parking Charge Calculator, The Hostel Electricity Bill, The Festival Bonus Calculator, and The Streaming Plan Renewal Reminder.
+- Practiced inheritance, method overriding, runtime polymorphism, base class references, specialized behavior, and uniform processing of different object types.
+- Tested the programs in IntelliJ.
+
+**Next Session Plan:**
+- Continue with the next session's class problems and assignments.
+
+**Issues Faced:**
+- None
+
+---
 ## Date: 19-09-2026
 
 **Today's Work:**
