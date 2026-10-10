@@ -1,4 +1,19 @@
 # Step_semester_3
+## Date: 03-10-2026
+
+**Today's Work:**
+- Completed Week 9 Java Abstraction and Interface class problems.
+- Completed the 5 class problems: Garden Plot Area Report, Weekly Staff Pay, Library Late Fine Counter, Electricity Connection Billing, and Travel Booking with a Common Fee.
+- Completed the 5 assignment problems: Movie Ticket Counter, Parcel Shipping Desk, College Fee Counter, City Cab Fare Meter, and Home Appliance Energy Report.
+- Practiced abstraction, abstract classes, interfaces, method implementation, inheritance, common behavior, interface-based capabilities, and code reusability.
+
+**Next Session Plan:**
+- Continue with the next session's class problems and assignments.
+
+**Issues Faced:**
+- None
+
+---
 ## Date: 26-09-2026
 
 **Today's Work:**
